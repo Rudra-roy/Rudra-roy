@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Autonomous Lead @ BRACU Mongol-Tori | 🚀 Computer Vision Specialist<br> ROS2 | C++ |🐍 Python | 🛡️ Ethical Hacking<br>🔭 Working on autonomous Mars rover "BRACU Mongol-Tori"<br>🎓 CSE Undergrad | 👁️Autonomous Navigation and Computer Vision projects<br>🧠 Always learning, always coding
+🤖 Autonomous Lead @ BRACU Mongol-Tori <br>🚀 Computer Vision Specialist<br> ROS2 | C++ |🐍 Python | 🛡️ Ethical Hacking<br>🔭 Working on autonomous Mars rover "BRACU Mongol-Tori"<br>🎓 CSE Undergrad | 👁️Autonomous Navigation and Computer Vision projects<br>🧠 Always learning, always coding
 
 
 ## 🌐 Socials:
